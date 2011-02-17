@@ -1,0 +1,25 @@
+Un code pour mettre à jour son statut twitter de manière automatiquement !
+
+Documentation: 
+Remplacez CONSUMERKEY et CONSUMERSECRET par les informations d'identification de votre application twitter
+
+Liste de diffusion:
+    <http://news.gmane.org/gmane.org.user-groups.linux.dakarlug>
+
+Chat: IRC freenode.net #dakarlug
+
+Code source: 
+    <https://github.com/Dakarlug/kebetu>
+    
+
+Auteur: Mamadou Diagne
+Contact: genova(at)dofbi.com
+Licence: LAL 1.3
+Dépendances:
+  Tweepy <http://github.com/joshthecoder/tweepy>
+  Python 2.4 or newer
+  Simplejson <http://undefined.org/python/#simplejson>
+    **Included in python 2.6+
+  Python-OAuth <http://code.google.com/p/oauth>
+    **Bundled with this library
+
